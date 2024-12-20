@@ -23,9 +23,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		79BE0D3B2D0F351400EFDA32 /* first_cli */ = {
+		79BE0D3B2D0F351400EFDA32 /* cpp_dsa */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = first_cli;
+			path = cpp_dsa;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -44,7 +44,7 @@
 		79BE0D302D0F351400EFDA32 = {
 			isa = PBXGroup;
 			children = (
-				79BE0D3B2D0F351400EFDA32 /* first_cli */,
+				79BE0D3B2D0F351400EFDA32 /* cpp_dsa */,
 				79BE0D3A2D0F351400EFDA32 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -73,7 +73,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				79BE0D3B2D0F351400EFDA32 /* first_cli */,
+				79BE0D3B2D0F351400EFDA32 /* cpp_dsa */,
 			);
 			name = first_cli;
 			packageProductDependencies = (
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 79BE0D342D0F351400EFDA32 /* Build configuration list for PBXProject "first_cli" */;
+			buildConfigurationList = 79BE0D342D0F351400EFDA32 /* Build configuration list for PBXProject "cpp_dsa" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -260,7 +260,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		79BE0D342D0F351400EFDA32 /* Build configuration list for PBXProject "first_cli" */ = {
+		79BE0D342D0F351400EFDA32 /* Build configuration list for PBXProject "cpp_dsa" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				79BE0D3E2D0F351400EFDA32 /* Debug */,
